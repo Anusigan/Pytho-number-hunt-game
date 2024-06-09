@@ -1,0 +1,41 @@
+Player name: Anusigan
+
+Attempt number: 1
+Presented enimies: [22, 89, 36, 48, 17]
+User input number: 36
+Life score: 77
+
+Attempt number: 2
+Presented enimies: [46, 25, 92, 39, 41]
+User input number: 46
+Life score: 123
+
+Attempt number: 3
+Presented enimies: [84, 24, 47, 72, 80]
+User input number: 84
+Life score: 207
+
+Attempt number: 4
+Presented enimies: [91, 74, 67, 18, 85]
+User input number: 91
+Life score: 298
+
+Attempt number: 5
+Presented enimies: [74, 99, 37, 91, 91]
+User input number: 99
+Life score: 397
+
+Attempt number: 6
+Presented enimies: [1451, 484, 273, 1101, 1081]
+User input number: 273
+Life score: 670
+
+Attempt number: 7
+Presented enimies: [1968, 1312, 716, 1190, 1417]
+User input number: 716
+
+***Game status***
+Player name:Anusigan
+Total attempts:7
+Final score:670
+('Anusigan', 'was defeated!!!')
